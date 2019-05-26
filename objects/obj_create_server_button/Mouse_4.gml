@@ -1,0 +1,1 @@
+global.InitObject.alarm[1] = 1;
